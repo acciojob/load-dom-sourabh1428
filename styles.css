@@ -1,1 +1,2 @@
 /*  your css code here. If applicable */
+document.getElementById("hue").innerText="DOM load success";
